@@ -1,2 +1,2 @@
-# steel_horse
+# Steel Horse
 Gameboy DMG Game/Demo
