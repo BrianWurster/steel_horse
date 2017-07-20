@@ -1,0 +1,10 @@
+docs
+lib
+gfx
+*.sn1
+*.sav
+*.map
+*.sym
+*.obj
+*.gb
+nohup.out
